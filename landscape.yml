@@ -1662,14 +1662,6 @@ landscape:
             logo: hazelcast.svg
             crunchbase: 'https://www.crunchbase.com/organization/hazelcast'
           - item:
-            name: HyScale Tool
-            description: >-
-              Hyscale Tool is an Application abstraction Framework over kubernetes.
-            homepage_url: 'https://www.hyscale.io/'
-            repo_url: 'https://github.com/hyscale/hyscale'
-            logo: hyscale.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hyscale' 
-          - item:
             name: IBM Db2
             description: >-
               IBM Db2® is a family of hybrid data management products offering a complete suite of AI empowered capabilities designed to help you manage both
@@ -2154,6 +2146,14 @@ landscape:
             twitter: 'https://twitter.com/helmpack'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
+            name: HyScale
+            description: >-
+              Hyscale Tool is an Application abstraction Framework over kubernetes.
+            homepage_url: 'https://www.hyscale.io/'
+            repo_url: 'https://github.com/hyscale/hyscale'
+            logo: hyscale.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hyscale' 
+          - item:
             name: kaniko
             homepage_url: 'https://github.com/GoogleContainerTools/kaniko'
             repo_url: 'https://github.com/GoogleContainerTools/kaniko'
@@ -2466,10 +2466,10 @@ landscape:
             logo: harness.svg
             crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
           - item:
-            name: HyScale
+            name: HyScale Enterprise
             description: >-
               The end-to-end deployment management and control platform for multi-cloud Kubernetes.
-            homepage_url: 'https://www.hyscale.io/'
+            homepage_url: 'https://www.hyscale.io/enterprise'
             logo: hyscale.svg
             crunchbase: 'https://www.crunchbase.com/organization/hyscale'
           - item:
