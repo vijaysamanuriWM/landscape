@@ -2148,7 +2148,8 @@ landscape:
           - item:
             name: HyScale
             description: >-
-              Hyscale Tool is an Application abstraction Framework over kubernetes.
+              HyScale defines an app-centric declarative spec for service configs & provides an abstraction framework over Kubernetes for app deployment,
+              runtime ops and deployment troubleshooting.
             homepage_url: 'https://www.hyscale.io/'
             repo_url: 'https://github.com/hyscale/hyscale'
             logo: hyscale.svg
